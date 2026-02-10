@@ -290,5 +290,5 @@ Execute the programs and publish them.
 The program for implementing image maps using HTML is executed successfully.
 
 
-Name : ASWIN B /
+Name : ASWIN B \
 Register Number : 212224110007
